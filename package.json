@@ -1,0 +1,20 @@
+{
+  "name": "agecalcreact",
+  "version": "1.0.0",
+  "description": "age calculator",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "age",
+    "calculator",
+    "react"
+  ],
+  "author": "Joseph Ogbole",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "react-bootstrap": "^2.8.0"
+  }
+}
